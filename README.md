@@ -1,6 +1,6 @@
 ## Kamusta Ka [How are you?]. My name is Gian Lacson. I am a student at the University of Nevada, Las Vegas, and I will graduate in December 2025 with a Bachelor of Science in Business Administration, majoring in Information Systems. 
 
-I am an aspiring Data Analyst who is passionate to learn through 
+## I am an aspiring Data Analyst who is passionate to learn through 
 
 <!--
 **gianpat100/gianpat100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
