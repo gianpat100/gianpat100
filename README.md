@@ -1,4 +1,4 @@
-## 👋 Hi, I am Gian Lacson
+# 👋 Hi, I am Gian Lacson
 
 ### I am passionate about finding business insights through data exploration, cleaning, and visualization. 
 
