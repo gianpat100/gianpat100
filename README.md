@@ -2,7 +2,7 @@
 
 ## I am passionate about finding business insights through data exploration, cleaning, and visualization. 
 
-- 📊 A motivated and aspiring Data Analyst
+- 📊 A motivated and driven Data Analyst
 - ✏️ Currently learning how to implement SQL, Python, and Tableau for data analysis
 - ⭐ Through this Github, you will find my academic and personal projects
 -  👑 Fun Fact: I love Lebron James
