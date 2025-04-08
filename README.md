@@ -1,6 +1,6 @@
 ## 👋 Hi, I am Gian Lacson
 
-## I am passionate about finding business insights through data exploration, cleaning, and visualization. 
+### I am passionate about finding business insights through data exploration, cleaning, and visualization. 
 
 - 📊 A motivated and driven Data Analyst
 - 👀 Actively looking for data analytic internships
@@ -9,7 +9,7 @@
 -  👑 Fun Fact: I love Lebron James
 
 ## Let's talk, I would love to meet you:
-https://www.linkedin.com/in/gian-lacson/ 
+[Linkedin Profile](https://www.linkedin.com/in/gian-lacson/)
 
 
 
