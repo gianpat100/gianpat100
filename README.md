@@ -8,7 +8,7 @@
 - ⭐ Through this Github, you will find my academic and personal projects
 -  👑 Fun Fact: I love Lebron James
 
-## Let's talk, I would love to meet you:
+### Let's talk, I would love to meet you:
 [Linkedin Profile](https://www.linkedin.com/in/gian-lacson/)
 
 
